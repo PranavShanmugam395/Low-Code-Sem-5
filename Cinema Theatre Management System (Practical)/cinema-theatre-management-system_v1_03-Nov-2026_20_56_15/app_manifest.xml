@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app-manifest>
+    <backup-info>
+        <version>1</version>
+        <time>2026-11-03T20:56:15.380+05:30[Asia/Kolkata]</time>
+        <content-types>7</content-types>
+        <method>10100</method>
+        <milestone>DMO_M4</milestone>
+        <backup-key>92b764adcc16dc37b127e95b192b4236</backup-key>
+    </backup-info>
+    <account-info>
+        <dc>in</dc>
+        <scope-id>60092577937</scope-id>
+        <screen-name>pranavshanmugam.2024.cse191</screen-name>
+    </account-info>
+    <app-meta-info>
+        <display-name>Cinema Theatre Management System</display-name>
+        <link-name>cinema-theatre-management-system</link-name>
+        <id>506033000000014012</id>
+        <creation-time>1792495998000</creation-time>
+        <time-zone>America/Los_Angeles</time-zone>
+        <status>0</status>
+        <type>1</type>
+        <permission-model>C5</permission-model>
+        <blueprint-version>2.0</blueprint-version>
+        <application-owner>
+            <application-owner-email>pranavshanmugam.2024.cse@rajalakshmi.edu.in</application-owner-email>
+            <application-owner-zuid>60078767316</application-owner-zuid>
+        </application-owner>
+    </app-meta-info>
+    <chunks-info>
+        <meta prefix="/">
+            <chunk size="9675">meta.zds</chunk>
+        </meta>
+        <data prefix="data">
+            <chunk size="5301">data_1.zip</chunk>
+        </data>
+        <files prefix="files">
+            <chunk size="1568706">files_1.zip</chunk>
+        </files>
+        <sync prefix="/">
+            <chunk size="855">sync.zip</chunk>
+        </sync>
+    </chunks-info>
+</app-manifest>
